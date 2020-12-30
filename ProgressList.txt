@@ -1,1 +1,5 @@
-
+- Installed Python Dev, Pip, and Nginx
+- Installed virtualenv
+- Set up virtual environment
+- Installed uwsgi
+- Set up test uwsgi program, error connecting to it
