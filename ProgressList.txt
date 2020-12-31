@@ -2,4 +2,4 @@
 - Installed virtualenv
 - Set up virtual environment
 - Installed uwsgi
-- Set up test uwsgi program, error connecting to it
+- Set up test uwsgi program (don't forget vm is seperate from pc and thats why it didnt work)
